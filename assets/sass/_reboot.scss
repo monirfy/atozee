@@ -12,7 +12,7 @@
 
 body {
     margin: 0;
-    font-family: var(--bs-font-sans-serif);
+    font-family: var(--az-font-sans-serif);
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -213,7 +213,7 @@ pre,
 code,
 kbd,
 samp {
-    font-family: var(--bs-font-monospace);
+    font-family: var(--az-font-monospace);
     font-size: 1em;
     direction: ltr /* rtl:ignore */;
     unicode-bidi: bidi-override;
